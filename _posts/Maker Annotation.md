@@ -2,6 +2,7 @@
 layout: page
 title: Maker Annotation
 tagline:
+tags : [intro]
 ---
 {% include JB/setup %}
 
