@@ -8,9 +8,6 @@ tags : [intro, beginner, jekyll, tutorial]
 
 
 
-Annotation
-==========
-
 This pipeline is in active development by the MacManes Lab. This webpage has been forked from https://github.com/sujaikumar/assemblage/blob/master/README-annotation.md
 
 How to predict genes using a two-pass (iterative) MAKER2 workflow
