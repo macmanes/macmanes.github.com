@@ -2,7 +2,7 @@
 layout: post
 category : lessons
 tagline: "Supporting tagline"
-tags : [Maker, intro, beginner, jekyll, tutorial]
+tags : [Maker, CEGMA, Augustus, GeneMark]
 ---
 {% include JB/setup %}
 
