@@ -18,12 +18,12 @@ Requirements:
 
 1. Genome assembly (nucleotide fasta file)
 2. CDSs (ESTs or RNA-Seq assembly) from the same species, if possible
-3. Protein set from a closely related species. You can also use a well curated set of proteins like swissprot ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz
-4. MAKER2 pipeline from http://www.yandell-lab.org/software/maker.html (we used version 2.31.2) Compiling with MPI support is preferable
-5. CEGMA - Core Eukaryotic Genes Mapping Approach - from http://korflab.ucdavis.edu/datasets/cegma/ 
+3. Protein set from a closely related species. You can also use a well curated set of proteins like [swissprot](ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz)
+4. [MAKER2 pipeline](http://www.yandell-lab.org/software/maker.html} (we used version 2.31.2) Compiling with MPI support is preferable
+5. [CEGMA](http://korflab.ucdavis.edu/datasets/cegma/) - Core Eukaryotic Genes Mapping Approach - from  
 6. SNAP gene finder from http://korflab.ucdavis.edu/Software .  
 7. Augustus gene finder from http://bioinf.uni-greifswald.de/augustus/ (we used version 3.0.2)
-8. GeneMark-ES gene finder from http://exon.gatech.edu/license_download.cgi (used GeneMark-ES LINUX 64 version 2.3e - `gm_es_bp_linux64_v2.3e.tar.gz`)
+8. GeneMark-ES gene finder from http://exon.gatech.edu/license_download.cgi (used GeneMark-ES LINUX 64 version 2.3e)
 
 Overview:
 
